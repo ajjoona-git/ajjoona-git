@@ -30,8 +30,6 @@
 
 - 📧 Email: ajjoona@gmail.com  
 
-[![SWEA Profile](https://your-domain.pages.dev/api/badge?user=ajjoona@gmail.com)](https://swexpertacademy.com/main/userpage.do?userId=ajjoona@gmail.com)
-
 
 <!--
 **ajjoona-git/ajjoona-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
