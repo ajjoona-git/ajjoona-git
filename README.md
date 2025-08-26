@@ -26,10 +26,13 @@
 - Git / GitHub / GitLab
 - Notion
 
+
 ## 💬 Contact
 
 - 📧 Email: ajjoona@gmail.com  
 
+
+<img src="https://raw.githubusercontent.com/najung-h/najung-h/master/dist/metrics-6m.svg" width="420">
 
 <!--
 **ajjoona-git/ajjoona-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
