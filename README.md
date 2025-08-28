@@ -10,7 +10,7 @@
 ## 🛠️ 기술 스택
 
 **Frontend**
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript 
 <!-- - React, Tailwind CSS-->
 
 **Backend**
