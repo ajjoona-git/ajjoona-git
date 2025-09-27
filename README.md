@@ -14,8 +14,8 @@
 <!-- - React, Tailwind CSS-->
 
 **Backend**
-- Python
-<!--, Django, Flask
+- Python, Django
+<!--, Flask
 - RESTful API-->
 
 **AI & Data**
