@@ -1,8 +1,12 @@
 # 👋 안녕하세요, 박준아입니다!
 
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ajjoona-git}" height="300"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ajjoona-git&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/ajjoona-git"
+      width="600"
+      height="300"
+    />
   </a>
 </p>
 
