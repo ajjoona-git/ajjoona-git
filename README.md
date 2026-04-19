@@ -10,15 +10,20 @@
 </p>
 
 
-### 📊 GitHub Activity
-<!-- <p align="center">
+<!-- ### 📊 GitHub Activity
+<p align="center">
   <img src="https://github-stats-box.vercel.app/api?ghuser=ajjoona-git&theme=flat" width="48%" />
   <img src="https://productive-box.vercel.app/api?ghuser=ajjoona-git&theme=flat" width="48%" />
 </p> -->
 
 
 ### 🛠 Tech Stack
-#### `Python` `Django` `Java` `Spring Boot` `FastAPI` `Vue.js` `JavaScript` `Git` `Jira`
+#### `Python` | `FastAPI` `Django` 
+#### `Java` | `Spring Boot` `JPA`
+#### `PostgreSQL` `MySQL` 
+#### `AWS` | `EC2` `S3` `RDS`
+#### `JavaScript` | `Vue.js` `React` 
+#### `Git` `Jira` `Notion`
 
 
 <p align="center">
